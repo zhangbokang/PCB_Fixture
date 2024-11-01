@@ -11,14 +11,14 @@
 
 ## 3. 效果图
 
-![装配图](vx_images/01.png =1000x)
+![装配图](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/01.png)
 
-![02](vx_images/02.jpg =1000x)
+![02](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/02.png)
 
-![03](vx_images/03.jpg =1000x)
+![03](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/03.png)
 
-![04](vx_images/04.jpg =1000x)
+![04](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/04.png)
 
-![05](vx_images/05.jpg =1000x)
+![05](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/05.png)
 
-![06](vx_images/06.jpg =1000x)
+![06](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/06.png)
