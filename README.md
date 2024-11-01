@@ -13,12 +13,12 @@
 
 ![装配图](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/01.png)
 
-![02](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/02.png)
+![02](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/02.jpg)
 
-![03](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/03.png)
+![03](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/03.jpg)
 
-![04](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/04.png)
+![04](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/04.jpg)
 
-![05](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/05.png)
+![05](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/05.jpg)
 
-![06](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/06.png)
+![06](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/06.jpg)
