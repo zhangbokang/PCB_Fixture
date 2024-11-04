@@ -7,6 +7,10 @@
 
 相比于网上大几十甚至上百的夹具，这个夹具不仅成本低，而且可以根据需要选择光轴和丝杆长度，组成不同夹持大小的夹具。
 
+听劝挂了个商品，除CNC加工件之外的标准件套餐，懒得自己鼓捣的可以去看看，配合 [嘉立创1元CNC](https://www.jlc-cnc.com/ac/ACUHiDI0/CPWXDXgd) 就能完成配件收集 `(*^_^*)`
+
+[h.gAQCwxIyroVmxB7?tk=MRA93pnvb30 CZ0001 「自制PCB夹具v1.0 配件一套(不含 cnc 加工件和安装工具)」](http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30)
+
 ## 2. Release获取加工文件
 
 ## 3. 视频教程
