@@ -9,9 +9,15 @@
 
 ## 2. Release获取加工文件
 
-## 3. 效果图
+## 3. 视频教程
 
-### 3.1. Gitee图片(解决国内访问不到GitHub，和GitHub一样的)
+[B站](https://www.bilibili.com/video/BV1S1SoYGExL/)
+
+[抖音](https://v.douyin.com/iAJgrt8c/)
+
+## 4. 效果图
+
+### 4.1. Gitee图片(解决国内访问不到GitHub，和GitHub一样的)
 
 ![装配图](https://gitee.com/hellozbk/PCB_Fixture/raw/v1.x/vx_images/01.png)
 
@@ -25,7 +31,7 @@
 
 ![06](https://gitee.com/hellozbk/PCB_Fixture/raw/v1.x/vx_images/06.jpg)
 
-### 3.2. GitHub图片(国内可能访问不到，看上面即可)
+### 4.2. GitHub图片(国内可能访问不到，看上面即可)
 
 ![装配图](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/01.png)
 
