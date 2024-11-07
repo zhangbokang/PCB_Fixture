@@ -13,11 +13,14 @@
 
 ## 2. Release获取加工文件
 
+- `.STEP`文件既是CNC加工文件，在加工平台加工时用的就是这个文件
+- 不同加工文件具体看Release中的说明
+
 ## 3. 视频教程
 
-[B站](https://www.bilibili.com/video/BV1S1SoYGExL/)
+- [B站-自制PCB夹具视频集合](https://www.bilibili.com/list/646334431)
 
-[抖音](https://v.douyin.com/iAJgrt8c/)
+- [抖音-自制PCB夹具视频](https://v.douyin.com/iAJgrt8c/)
 
 ## 4. 效果图
 
