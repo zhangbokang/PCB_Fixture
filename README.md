@@ -22,32 +22,38 @@
 
 - [抖音-自制PCB夹具视频](https://v.douyin.com/iAJgrt8c/)
 
-## 4. 效果图
+## 4. 关注了解最新动态
 
-### 4.1. Gitee图片(解决国内访问不到GitHub，和GitHub一样的)
+![B站-子金创作](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/bilibilierweima.png)
 
-![装配图](https://gitee.com/hellozbk/PCB_Fixture/raw/v1.x/vx_images/01.png)
+![抖音-子金创作](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/douyinerweima.png)
 
-![02](https://gitee.com/hellozbk/PCB_Fixture/raw/v1.x/vx_images/02.jpg)
+## 5. 效果图
 
-![03](https://gitee.com/hellozbk/PCB_Fixture/raw/v1.x/vx_images/03.jpg)
+### 5.1. Gitee图片(解决国内访问不到GitHub，和GitHub一样的)
 
-![04](https://gitee.com/hellozbk/PCB_Fixture/raw/v1.x/vx_images/04.jpg)
+![装配图](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.0/01.png =1000x)
 
-![05](https://gitee.com/hellozbk/PCB_Fixture/raw/v1.x/vx_images/05.jpg)
+![02](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.0/02.jpg =1000x)
 
-![06](https://gitee.com/hellozbk/PCB_Fixture/raw/v1.x/vx_images/06.jpg)
+![03](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.0/03.jpg =1000x)
 
-### 4.2. GitHub图片(国内可能访问不到，看上面即可)
+![04](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.0/04.jpg =1000x)
 
-![装配图](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/01.png)
+![05](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.0/05.jpg =1000x)
 
-![02](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/02.jpg)
+![06](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.0/06.jpg =1000x)
 
-![03](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/03.jpg)
+### 5.2. GitHub图片(国内可能访问不到，看上面即可)
 
-![04](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/04.jpg)
+![装配图](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.0/01.png =1000x)
 
-![05](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/05.jpg)
+![02](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.0/02.jpg =1000x)
 
-![06](https://github.com/zhangbokang/PCB_Fixture/blob/v1.x/vx_images/06.jpg)
+![03](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.0/03.jpg =1000x)
+
+![04](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.0/04.jpg =1000x)
+
+![05](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.0/05.jpg =1000x)
+
+![06](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.0/06.jpg =1000x)
