@@ -36,9 +36,16 @@
 
 ![抖音-子金创作](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/douyinerweima.png)
 
-## 5. 效果图
+## 5. 最新动态及计划
 
-### 5.1. Gitee图片(解决国内访问不到GitHub，和GitHub一样的)
+下一版本`v1.2`版本
+
+- 增加铨洲智造的打印件(待打样测试)
+- 增加两个螺丝孔，可以方便后面扩展夹头(待打样测试)
+
+## 6. 效果图
+
+### 6.1. Gitee图片(解决国内访问不到GitHub，和GitHub一样的)
 
 ![装配图](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/00.jpg)
 
@@ -56,7 +63,7 @@
 
 ![07](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/07.jpg)
 
-### 5.2. GitHub图片(国内可能访问不到，看上面即可)
+### 6.2. GitHub图片(国内可能访问不到，看上面即可)
 
 ![装配图](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/00.jpg)
 
