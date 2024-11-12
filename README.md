@@ -40,36 +40,36 @@
 
 ### 5.1. Gitee图片(解决国内访问不到GitHub，和GitHub一样的)
 
-![装配图](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/00.jpg =1000x)
+![装配图](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/00.jpg)
 
-![01](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/01.jpg =1000x)
+![01](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/01.jpg)
 
-![02](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/02.jpg =1000x)
+![02](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/02.jpg)
 
-![03](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/03.jpg =1000x)
+![03](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/03.jpg)
 
-![04](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/04.jpg =1000x)
+![04](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/04.jpg)
 
-![05](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/05.jpg =1000x)
+![05](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/05.jpg)
 
-![06](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/06.jpg =1000x)
+![06](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/06.jpg)
 
-![07](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/07.jpg =1000x)
+![07](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/07.jpg)
 
 ### 5.2. GitHub图片(国内可能访问不到，看上面即可)
 
-![装配图](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/00.png =1000x)
+![装配图](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/00.png)
 
-![01](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/01.jpg =1000x)
+![01](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/01.jpg)
 
-![02](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/02.jpg =1000x)
+![02](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/02.jpg)
 
-![03](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/03.jpg =1000x)
+![03](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/03.jpg)
 
-![04](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/04.jpg =1000x)
+![04](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/04.jpg)
 
-![05](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/05.jpg =1000x)
+![05](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/05.jpg)
 
-![06](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/06.jpg =1000x)
+![06](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/06.jpg)
 
-![07](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/07.jpg =1000x)
+![07](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/07.jpg)
