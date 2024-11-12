@@ -58,7 +58,7 @@
 
 ### 5.2. GitHub图片(国内可能访问不到，看上面即可)
 
-![装配图](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/00.png)
+![装配图](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/00.jpg)
 
 ![01](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/01.jpg)
 
