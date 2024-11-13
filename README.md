@@ -1,15 +1,15 @@
-# PCB_Fixture(PCB夹具)
+# 自制PCB夹具(PCB_Fixture)
 使用五金标准件和简单CNC件组成的PCB夹具。PCB fixture composed of hardware standard parts and simple CNC parts.
 
-## 1. 自制PCB夹具
+## 1. 简介
 
-- 1.x版本为比较简单的，由两片CNC件和五金标准件组成，可以在 [嘉立创1元CNC](https://www.jlc-cnc.com/ac/ACUHiDI0/CPWXDXgd) 白嫖(没免运费券的需要出个运费两片十来块，也可以用连体版回去自己锯开，可省一次运费；**PS：连体版虽然能省一次运费，但需要自己锯开，还要稍加打磨，如果比较想完美，也没有其他要占用CNC加工次数的加工件，而且还懒得费劲，那么用非连体版（不带`one`的）应该是你的第一选择，一个月两次加工次数也够了，就是差个5-6块钱的事，实际根据自己情况来就行**)。
+- 由两片CNC加工件和一些五金标准件组成，CNC加工件可以在 [嘉立创1元CNC](https://www.jlc-cnc.com/ac/ACUHiDI0/CPWXDXgd) 白嫖(没免运费券的需要出个运费两片一共十来块，也可以用二合一版回去自己锯开，可省一次运费；**PS：二合一版虽然能省一次运费，但需要自己锯开，还要稍加打磨，如果比较想完美，也没有其他要占用CNC加工次数的加工件，而且还懒得费劲，那么用单个版（不带`one`的）应该是你的第一选择，一个月两次加工次数也够了，就是差个5-6块钱的事，实际根据自己情况来就行**)。
 
 - 相比于网上大几十甚至上百的夹具，这个夹具不仅成本低，而且可以根据需要选择光轴和丝杆长度，组成不同夹持大小的夹具。
 
-- 听劝挂了个商品，除CNC加工件之外的标准件套餐，懒得自己鼓捣的可以去看看，配合 [嘉立创1元CNC](https://www.jlc-cnc.com/ac/ACUHiDI0/CPWXDXgd) 就能完成配件收集 `(*^_^*)`
-
-> [「自制PCB夹具v1.0 配件一套(不含 cnc 加工件和安装工具)」](http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30)
+---
+> 听劝挂了个商品，除CNC加工件之外的标准件套餐，懒得自己鼓捣的可以去看看 [「自制PCB夹具 配件一套(不含 cnc 加工件和安装工具)」](http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30)
+> 配合 [嘉立创1元CNC](https://www.jlc-cnc.com/ac/ACUHiDI0/CPWXDXgd) 就能完成配件收集 `(*^_^*)`
 
 ## 2. Release获取加工文件
 
