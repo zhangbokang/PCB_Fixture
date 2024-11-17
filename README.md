@@ -11,18 +11,31 @@
 > 听劝挂了个商品，除CNC加工件之外的标准件套餐，懒得自己鼓捣的可以去看看 [「自制PCB夹具 配件一套(不含 cnc 加工件和安装工具)」](http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30)
 > 配合 [嘉立创1元CNC](https://www.jlc-cnc.com/ac/ACUHiDI0/CPWXDXgd) 就能完成配件收集 `(*^_^*)`
 
-## 2. Release获取加工文件
+## 2. 交流群
+
+点击链接加入群聊【子金创作交流群 855828794】：[https://qm.qq.com/q/QZsBv7JgAw](https://qm.qq.com/q/QZsBv7JgAw)
+
+- Gitee
+
+![子金创作交流群 855828794](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/zijinchuangzuoqq.png)
+
+- GitHub
+
+![子金创作交流群 855828794](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/zijinchuangzuoqq.png)
+
+
+## 3. Release获取加工文件
 
 - `.STEP`文件既是CNC加工文件，在加工平台加工时用的就是这个文件
 - 不同加工文件具体看Release中的说明
 
-## 3. 视频教程
+## 4. 视频教程
 
 - [B站-自制PCB夹具视频集合](https://www.bilibili.com/list/646334431)
 
 - [抖音-自制PCB夹具视频](https://v.douyin.com/iAJgrt8c/)
 
-## 4. 关注我了解最新动态
+## 5. 关注我了解最新动态
 
 - Gitee
 
@@ -36,7 +49,7 @@
 
 ![抖音-子金创作](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/douyinerweima.png)
 
-## 5. 版本记录
+## 6. 版本记录
 
 - **v1.2**(预览版)
 
@@ -55,9 +68,9 @@
 1. 1.0版本为比较简单的，由两片CNC件和五金标准件组成，可以在 [嘉立创1元CNC](https://www.jlc-cnc.com/ac/ACUHiDI0/CPWXDXgd) 白嫖(没免运费券的需要出个运费两片十来块)。
 2. 相比于网上大几十甚至上百的夹具，这个夹具不仅成本低，而且可以根据需要选择光轴和丝杆长度，组成不同夹持大小的夹具。
 
-## 6. 效果图
+## 7. 效果图
 
-### 6.1. Gitee图片(解决国内访问不到GitHub，和GitHub一样的)
+### 7.1. Gitee图片(解决国内访问不到GitHub，和GitHub一样的)
 
 ![装配图](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/00.jpg)
 
@@ -75,7 +88,7 @@
 
 ![07](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/07.jpg)
 
-### 6.2. GitHub图片(国内可能访问不到，看上面即可)
+### 7.2. GitHub图片(国内可能访问不到，看上面即可)
 
 ![装配图](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/00.jpg)
 
