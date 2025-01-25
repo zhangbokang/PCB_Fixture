@@ -15,14 +15,7 @@
 
 点击链接加入群聊【子金创作交流群 855828794】：[https://qm.qq.com/q/QZsBv7JgAw](https://qm.qq.com/q/QZsBv7JgAw)
 
-- Gitee
-
-![子金创作交流群 855828794](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/zijinchuangzuoqq.png)
-
-- GitHub
-
-![子金创作交流群 855828794](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/zijinchuangzuoqq.png)
-
+![子金创作交流群 855828794](vx_images/zijinchuangzuoqq.png)
 
 ## 3. Release获取加工文件
 
@@ -31,23 +24,24 @@
 
 ## 4. 视频教程
 
-- [B站-自制PCB夹具视频集合](https://www.bilibili.com/list/646334431)
+- [B站-自制PCB夹具视频集合](https://space.bilibili.com/646334431/lists/4469926?type=series)
 
 - [抖音-自制PCB夹具视频](https://v.douyin.com/iAJgrt8c/)
 
 ## 5. 关注我了解最新动态
 
-- Gitee
+![B站-子金创作](vx_images/bilibilierweima.png)
 
-![B站-子金创作](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/bilibilierweima.png)
+![抖音-子金创作](vx_images/douyinerweima.png)
 
-![抖音-子金创作](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/douyinerweima.png)
 
-- GitHub
+欢迎大家光临我的闲鱼 【闲鱼】https://m.tb.cn/h.TmkK9tq?tk=bM1le4dBSpc CZ005 「这是我的闲鱼号，快来看看吧～」
 
-![B站-子金创作](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/bilibilierweima.png)
+点击链接直接打开
 
-![抖音-子金创作](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/douyinerweima.png)
+![闲鱼-子金创作](vx_images/xianyuerweima.jpg)
+
+
 
 ## 6. 版本记录
 
@@ -55,7 +49,7 @@
 
 1. 增加纯光轴改装 (改装失败)
 
-- **v1.2**(预览版)
+- **v1.2**(最新稳定)
 
 1. 增加铨洲智造的打印件(待打样测试)，铨洲智造可以支持螺纹孔，但是一个螺纹孔要加一块钱(一共要加12)，如果想成本最低，可以用嘉立创版本加工，可以兼容的；
 2. 夹片靠上部位增加两个螺丝孔，可以方便后面扩展夹头(如果有的话，可以自己DIY设计，算是一个扩展吧)；
@@ -74,38 +68,18 @@
 
 ## 7. 效果图
 
-### 7.1. Gitee图片(解决国内访问不到GitHub，和GitHub一样的)
+![装配图](vx_images/v1.1/00.jpg)
 
-![装配图](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/00.jpg)
+![01](vx_images/v1.1/01.jpg)
 
-![01](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/01.jpg)
+![02](vx_images/v1.1/02.jpg)
 
-![02](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/02.jpg)
+![03](vx_images/v1.1/03.jpg)
 
-![03](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/03.jpg)
+![04](vx_images/v1.1/04.jpg)
 
-![04](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/04.jpg)
+![05](vx_images/v1.1/05.jpg)
 
-![05](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/05.jpg)
+![06](vx_images/v1.1/06.jpg)
 
-![06](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/06.jpg)
-
-![07](https://gitee.com/hellozbk/PCB_Fixture/raw/master/vx_images/v1.1/07.jpg)
-
-### 7.2. GitHub图片(国内可能访问不到，看上面即可)
-
-![装配图](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/00.jpg)
-
-![01](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/01.jpg)
-
-![02](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/02.jpg)
-
-![03](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/03.jpg)
-
-![04](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/04.jpg)
-
-![05](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/05.jpg)
-
-![06](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/06.jpg)
-
-![07](https://github.com/zhangbokang/PCB_Fixture/blob/master/vx_images/v1.1/07.jpg)
+![07](vx_images/v1.1/07.jpg)
