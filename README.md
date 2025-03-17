@@ -11,7 +11,7 @@
 
 ---
 - 听劝挂了个商品，有配件包有CNC加工件(加工件偶尔有)，配件包是除CNC件之外的标准件套包，懒得自己鼓捣的可以去看看 [「自制PCB夹具 配件一套(不含 cnc 加工件和安装工具)」](http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30)
-- 配件套包配合 [嘉立创1元CNC](https://www.jlc-cnc.com/ac/ACUHiDI0/CPWXDXgd) 就能完成配件收集 `(*^_^*)`
+- 配件套包配合 [嘉立创1元CNC](https://www.jlc-cnc.com/ac/ACUHiDI0/CP2tCHBI) 就能完成配件收集 `(*^_^*)`
 
 ## 2. 交流群
 
