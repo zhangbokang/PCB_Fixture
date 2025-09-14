@@ -10,7 +10,7 @@
 ![实物图](vx_images/v1.1/01_mini.jpg)
 
 ---
-- 开源不易，来支持下作者吧！ [「自制PCB夹具」](http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30)
+- 开源不易，来支持一下作者吧！直购链接：[【淘宝】http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30 CZ0001 「自制PCB夹具)」](http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30)
 - 配件套包配合 [嘉立创1元CNC](https://www.jlc-cnc.com/ac/ACUHiDI0/CP2tCHBI) 就能完成配件收集 `(*^_^*)`
 
 ## 2. 交流群
@@ -51,7 +51,7 @@
 - 合并1.2和1.4，使用有轴套无轴套区分
 - 有轴套的更换效果更好的轴套 尺寸(高8内径8外径10)
 - 删除铨洲螺纹版，需要的可以查看历史版本
-- 更新BOM表.xlsx到[bom.md 点击查看](bom.md)
+- 更新`BOM表.xlsx`到`bom.md`
 
 - **v1.4.2**已发布
 
