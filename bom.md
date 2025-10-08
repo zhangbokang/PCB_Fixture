@@ -24,7 +24,8 @@ https://www.jlc-cnc.com/ac/ACUHiDI0/CP2tCHBI
 | 15   | 铝合金手轮圆形旋钮(外径20内径8)                                    | ![铝合金手轮圆形旋钮](vx_images/bom/407964317650939.jpg "铝合金手轮圆形旋钮")              | 1                            | 五金标准件 |                                                                                                                                                                                                                                                                     |
 
 > 以上即有轴套版本夹具的所有物品清单，也可以直接从我这购买配件包，或者订购整套成品！
-> 开源不易，来支持一下作者吧！直购链接：[【淘宝】http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30 CZ0001 「自制PCB夹具)」](http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30)
+> 感觉不错就来支持一下作者吧！
+> 直购链接：[【淘宝】http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30 CZ0001 「自制PCB夹具)」](http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30)
 
 组装视频教程
 
@@ -53,7 +54,8 @@ https://www.jlc-cnc.com/ac/ACUHiDI0/CP2tCHBI
 | 12   | 铝合金手轮圆形旋钮(外径20内径8)                                    | ![铝合金手轮圆形旋钮](vx_images/bom/407964317650939.jpg "铝合金手轮圆形旋钮")              | 1                            | 五金标准件 |                                                                                                                                                                                                                                                                     |
 
 > 以上即有轴套版本夹具的所有物品清单，也可以直接从我这购买配件包，或者订购整套成品！
-> 开源不易，来支持一下作者吧！直购链接：[【淘宝】http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30 CZ0001 「自制PCB夹具)」](http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30)
+> 感觉不错就来支持一下作者吧！
+> 直购链接：[【淘宝】http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30 CZ0001 「自制PCB夹具)」](http://e.tb.cn/h.gAQCwxIyroVmxB7?tk=MRA93pnvb30)
 
 组装视频教程
 
